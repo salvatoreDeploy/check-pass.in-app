@@ -1,4 +1,4 @@
-# Projeto: Pass.In
+# Projeto: Check-pass.In
 
 ## Tecnologias: React(Vite), TailwindCSS
 
